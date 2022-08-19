@@ -1,5 +1,7 @@
 # LGMVIP-DataScienceTask2
 
-Lets Grow More Intership
+LetsGrowMore: Data Science Internship
 
-By Snehal Shivshant Patil
+Author: Ms.Snehal Shivshant Patil
+
+Task 2: Stock Market Prediction And Forecasting Using Stacked LSTM
